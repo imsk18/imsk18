@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Shatrudhan Kumar
+# 👋 Hi there, I'm Shatrudhan Kumar
 
-### 🎓 BCA Student • Full Stack Developer • Software Engineering Enthusiast
+### 🎓 BCA Student • Full Stack Developer • MERN Stack Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:155E75&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
@@ -16,8 +16,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devsk.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsk18)
 [![Email](https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
@@ -75,18 +75,6 @@ I'm continuously improving my problem-solving and development skills by building
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
 </p>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Exploring | Learning ML fundamentals and practical applications |
-| AI Integration | Exploring | Exploring AI-powered features for modern applications |
-| Intelligent Applications | Exploring | Building personalized and intelligent application concepts |
-| Data Processing | Intermediate | Working with APIs and structured application data |
-| AI Product Engineering | Exploring | Exploring the integration of AI into user-focused products |
 
 ---
 
@@ -190,7 +178,6 @@ Developing practical software engineering skills through academic learning, pers
 - Create REST APIs with Node.js and Express.js
 - Work with MongoDB and Mongoose
 - Implement authentication systems
-- Explore AI/ML concepts
 - Build interactive websites using GSAP and Three.js
 - Practice clean and maintainable coding patterns
 
@@ -207,7 +194,7 @@ Developing practical software engineering skills through academic learning, pers
 | **Full Stack Development** | Built MERN-stack applications with frontend, backend, and database integration |
 | **Interactive Web Development** | Created animation-driven websites using GSAP and image sequences |
 | **Project Development** | Developed multiple real-world inspired web applications |
-| **Continuous Learning** | Actively expanding software engineering and AI/ML knowledge |
+| **Continuous Learning** | Actively expanding software engineering skills |
 
 </div>
 
@@ -301,21 +288,18 @@ Learning:
   - Advanced React.js
   - Node.js & Express.js
   - Backend Architecture
-  - AI/ML Fundamentals
   - Data Structures & Algorithms
 
 Building:
   - MERN Stack Applications
   - Interactive Web Experiences
   - Personal Projects
-  - AI-Powered Applications
 
 Exploring:
-  - Artificial Intelligence
-  - Machine Learning
   - Three.js
   - GSAP
   - Modern Web Technologies
+  - AI/ML
 
 Open To:
   - Software Engineering Internships
