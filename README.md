@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:155E75&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=DC143C&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=DC143C&center=true&vCenter=true&width=950&height=60&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,23 +18,23 @@
 <br/>
 
 <a href="https://www.devsk.in">
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=10" />
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/imsk18">
-<img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10" />
+<img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10" />
+<img src="https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white&borderRadius=10" />
+<a href="https://github.com/imsk18">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0891B2&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=0E7490)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=155E75)
+![Profile Views](https://komarev.com/ghpvc/?username=imsk18&label=PROFILE+VIEWS&color=0891B2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/imsk18?label=FOLLOWERS&style=flat-square&color=0E7490)
+![Stars](https://img.shields.io/github/stars/imsk18?label=STARS&style=flat-square&color=155E75)
 
 </div>
 
@@ -85,6 +85,11 @@ I'm continuously improving my development and problem-solving skills by building
 <img src="https://skillicons.dev/icons?i=gsap,threejs" />
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
 ### Tools & Development
 
 <p>
@@ -111,7 +116,7 @@ I'm continuously improving my development and problem-solving skills by building
 | **Performance** | Component-based frontend and REST API architecture |
 | **Security** | JWT-based authentication |
 | **Impact** | Personalized music discovery based on mood |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/moodify) |
+| **Repository** | [View Repository](https://github.com/imsk18/moodify) |
 
 ### Engineering Scope
 
@@ -138,7 +143,7 @@ A modern and interactive developer portfolio designed to showcase technical skil
 | **Performance** | Optimized animations and component-based architecture |
 | **Security** | Contact workflow using EmailJS |
 | **Impact** | Professional developer portfolio and online presence |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/portfolio) |
+| **Repository** | [View Repository](https://github.com/imsk18/portfolio) |
 
 ### Engineering Scope
 
@@ -164,7 +169,7 @@ An immersive website inspired by Vaishno Devi featuring image-sequence animation
 | **Performance** | Optimized image-sequence rendering |
 | **Security** | Frontend-focused implementation |
 | **Impact** | Immersive visual storytelling |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/vaishno-devi) |
+| **Repository** | [View Repository](https://github.com/imsk18/vaishno-devi) |
 
 ### Engineering Scope
 
@@ -229,15 +234,15 @@ Focused on practical full-stack development with modern frontend, backend, datab
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=06B6D4&text_color=E2E8F0&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsk18&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=06B6D4&text_color=E2E8F0&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=E2E8F0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsk18&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=E2E8F0&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0B1120&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=imsk18&hide_border=true&background=0B1120&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -247,7 +252,7 @@ Focused on practical full-stack development with modern frontend, backend, datab
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=imsk18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -257,7 +262,7 @@ Focused on practical full-stack development with modern frontend, backend, datab
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0B1120&color=22D3EE&line=06B6D4&point=67E8F9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imsk18&bg_color=0B1120&color=22D3EE&line=06B6D4&point=67E8F9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -267,7 +272,7 @@ Focused on practical full-stack development with modern frontend, backend, datab
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/imsk18/imsk18/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
