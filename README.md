@@ -11,8 +11,9 @@
 <br/>
 
 ![BCA Student](https://img.shields.io/badge/BCA%20Student-0F172A?style=for-the-badge&logo=academia&logoColor=22D3EE)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-164E63?style=for-the-badge&logo=code&logoColor=67E8F9)
-![Location](https://img.shields.io/badge/India-155E75?style=for-the-badge&logo=googlemaps&logoColor=67E8F9)
+![Sheryians Coding School](https://img.shields.io/badge/Sheryians%20Coding%20School-164E63?style=for-the-badge&logo=bookstack&logoColor=67E8F9)
+![Maharishi Markandeshwar University](https://img.shields.io/badge/Maharishi%20Markandeshwar%20University-155E75?style=for-the-badge&logo=academia&logoColor=67E8F9)
+![Location](https://img.shields.io/badge/India-0E7490?style=for-the-badge&logo=googlemaps&logoColor=67E8F9)
 
 <br/>
 
@@ -35,9 +36,9 @@
 
 I'm a **BCA student and aspiring software engineer** passionate about building modern, responsive, and interactive web applications.
 
-My primary focus is **Full Stack Development**, with hands-on experience in the **MERN stack** and modern frontend technologies. I enjoy turning ideas into functional products while focusing on clean code, reusable components, responsive design, and smooth user experiences.
+My primary focus is **Full Stack Development**, with hands-on experience in modern frontend technologies and the **MERN stack**. I enjoy turning ideas into functional products while focusing on clean code, reusable components, responsive design, smooth animations, and great user experiences.
 
-I'm continuously improving my problem-solving and development skills by building real-world projects and exploring new technologies.
+I'm continuously improving my development and problem-solving skills by building real-world projects and exploring new technologies.
 
 ### Open To
 
@@ -55,26 +56,34 @@ I'm continuously improving my problem-solving and development skills by building
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,scss,tailwind" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Animation & 3D
+
+<p>
+<img src="https://skillicons.dev/icons?i=gsap,threejs" />
+</p>
+
+### Tools & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
 </p>
+
+**Technologies:** `React.js` `TypeScript` `Next.js` `Node.js` `Express.js` `MongoDB` `CSS` `SCSS` `Tailwind CSS` `GSAP` `Three.js` `PHP` `HTML` `JavaScript`
 
 ---
 
@@ -161,27 +170,21 @@ An immersive website inspired by Vaishno Devi featuring image-sequence animation
 
 ---
 
-## Experience
+## Education & Training
 
-### Student Developer
+### Bachelor of Computer Applications (BCA)
 
-**BCA — Computer Applications**
+**Maharishi Markandeshwar (Deemed to be) University**
 
-**Current**
+Currently pursuing **BCA**, developing strong foundations in computer science, programming, software development, and modern web technologies.
 
-Developing practical software engineering skills through academic learning, personal projects, and hands-on development.
+### Full Stack Web Development
 
-#### Scope of Work
+**Sheryians Coding School**
 
-- Build full-stack web applications
-- Develop responsive React interfaces
-- Create REST APIs with Node.js and Express.js
-- Work with MongoDB and Mongoose
-- Implement authentication systems
-- Build interactive websites using GSAP and Three.js
-- Practice clean and maintainable coding patterns
+Focused on practical full-stack development with modern frontend, backend, database, and web development technologies.
 
-**Skills:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `GSAP` `Three.js` `Git`
+**Skills:** `React.js` `JavaScript` `TypeScript` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `SCSS` `Tailwind CSS` `GSAP` `Three.js`
 
 ---
 
@@ -193,30 +196,11 @@ Developing practical software engineering skills through academic learning, pers
 |---|---|
 | **Full Stack Development** | Built MERN-stack applications with frontend, backend, and database integration |
 | **Interactive Web Development** | Created animation-driven websites using GSAP and image sequences |
+| **Modern Frontend Development** | Working with React.js, TypeScript, Next.js, Tailwind CSS and modern UI technologies |
 | **Project Development** | Developed multiple real-world inspired web applications |
-| **Continuous Learning** | Actively expanding software engineering skills |
+| **Continuous Learning** | Actively expanding software engineering and development skills |
 
 </div>
-
----
-
-## Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=67E8F9)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-164E63?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-0E7490?style=for-the-badge&logo=google-scholar&logoColor=white)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-155E75?style=for-the-badge&logo=cisco&logoColor=67E8F9)
 
 ---
 
@@ -286,20 +270,23 @@ Developing practical software engineering skills through academic learning, pers
 ```yaml
 Learning:
   - Advanced React.js
+  - TypeScript
+  - Next.js
   - Node.js & Express.js
-  - Backend Architecture
   - Data Structures & Algorithms
 
 Building:
   - MERN Stack Applications
   - Interactive Web Experiences
-  - Personal Projects
+  - Modern Portfolio Projects
+  - Full Stack Applications
 
 Exploring:
   - Three.js
   - GSAP
-  - Modern Web Technologies
+  - Modern Frontend Architecture
   - AI/ML
+  - Scalable Web Applications
 
 Open To:
   - Software Engineering Internships
