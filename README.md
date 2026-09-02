@@ -10,9 +10,7 @@
 
 <br/>
 
-![🎓 BCA Student At](https://img.shields.io/badge/BCA%20Student-0F172A?style=for-the-badge&logo=academia&logoColor=22D3EE)
-![Maharishi Markandeshwar University](https://img.shields.io/badge/Maharishi%20Markandeshwar%20University-155E75?style=for-the-badge&logo=academia&logoColor=67E8F9)
-![Location](https://img.shields.io/badge/India-0E7490?style=for-the-badge&logo=googlemaps&logoColor=67E8F9)
+### 🎓 BCA Student at Maharishi Markandeshwar (Deemed to be) University
 
 <br/>
 
