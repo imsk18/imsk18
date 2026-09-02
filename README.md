@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:155E75&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=DC143C&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,10 +17,18 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devsk.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imsk18)
-[![Email](https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<a href="https://www.devsk.in">
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=10" />
+</a>
+<a href="https://www.linkedin.com/in/imsk18">
+<img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=10" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-155E75?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=10" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white&borderRadius=10" />
+</a>
 
 <br/>
 
@@ -184,7 +192,7 @@ Currently pursuing **BCA**, developing strong foundations in computer science, p
 
 Focused on practical full-stack development with modern frontend, backend, database, and web development technologies.
 
-**Skills:** `React.js` `JavaScript` `TypeScript` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `SCSS` `Tailwind CSS` `GSAP` `Three.js`
+**Skills:** `React.js` `JavaScript` `TypeScript` `Next.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `SCSS` `Tailwind CSS` `GSAP` `Three.js`
 
 ---
 
