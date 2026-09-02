@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:155E75&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=2500&pause=900&color=DC143C&center=true&vCenter=true&width=650&height=80&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=900&color=DC143C&center=true&vCenter=true&width=650&height=80&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
